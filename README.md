@@ -11,3 +11,20 @@ Em muitas ferramenta de automação de testes a gerência dos requisitos de test
 
 3. Mapa de Gerenciamento dos Testes
 http://www.xmind.net/m/XMMA
+
+Links: 
+
+1. TestLink no GitHub 
+
+https://github.com/TestLinkOpenSourceTRMS/testlink-code/tree/testlink_1_9/
+
+2. Servidor Web
+
+http://www.wampserver.com/#download-wrapper
+
+Link de Estudo: 
+
+https://stackoverflow.com/questions/12416879/testlink-installation-failed-checking-if-var-testlink-logs-directory-exists
+
+http://www.bugbang.com.br/especial-testlink-1-9/
+
