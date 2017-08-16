@@ -1,5 +1,4 @@
-![testlink_logo_2](https://user-images.githubusercontent.com/4249709/29342907-033c60be-8204-11e7-9983-9adcc061990b.jpg)
-
+![images](https://user-images.githubusercontent.com/4249709/29342976-7d6154f8-8204-11e7-8b6a-df0d5151caf8.png)
 
 ## Automação da Gerência e do Planejamento de Teste
 
