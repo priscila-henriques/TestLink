@@ -1,9 +1,13 @@
-# TestLink
+![testlink_logo_2](https://user-images.githubusercontent.com/4249709/29342907-033c60be-8204-11e7-9983-9adcc061990b.jpg)
 
-Automação da Gerência e do Planejamento de Teste
 
+## Automação da Gerência e do Planejamento de Teste
+
+''''''''''''''''''''''''
 1. Gerenciamento e o Planejamento
 A grande finalidade das ferramentas de "Gerenciamento de Teste" é gerenciar o centro nervoso dos testes: "O Casos de Teste"
+
+''''''''''''''''''''''''''
 
 2. Gerência do Teste
 Automatizar o processo de teste e o controle sobre os cenários de teste
